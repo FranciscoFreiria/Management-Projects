@@ -1,0 +1,5 @@
+This subject was taught by a project.
+
+Objective:
+
+"Our goal is that students learn and construct their own knowledge, creating their specific view on Project management. We explore the integration of mainstream approaches (PMBOK), complementary approaches (Critical Chain) and of a diversity of different views and problems (scientific papers on PM). We work on the development of a sociotechnical view, mainly in the first phases of the engineering process (requirements analyses, specifications, and design). We unveil some social networks fundaments using Actor-Network Theory. With this approach we intend to facilitate the construction of individual knowledge and to let each one know the best practices in the field. Our tonic is in design projects in Engineering."
